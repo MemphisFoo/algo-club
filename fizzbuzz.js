@@ -4,3 +4,11 @@ logs fizz instead of the number for multiples of 3
 logs buzz instead of the number for multiples of 5
 logs fizzbuzz for numbers that are multiples of both 3 and 5 
 */
+
+fizzbuzz(5)
+
+1
+2
+fizz
+4
+5
