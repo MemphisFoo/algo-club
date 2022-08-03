@@ -4,7 +4,7 @@ the index of the element, and if the element is not found in the list.
 */
 const arr = [1,2,3,4,5,6,7,8,9,10];
 function checkForN(arr, n) {
-    for(let i =0; i < arr.length; i++){
+    for(let i = 0; i < arr.length; i++){ 
         if(n == arr[i]){
             return `${n} is found at index ${i}`
         }
